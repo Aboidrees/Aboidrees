@@ -2,7 +2,7 @@
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=850000&center=true&vCenter=true&width=435&lines=Hello+there%2C+I'm+Muhammad;I+Am+A+Flutter+Developer" alt="Typing SVG" />
 <br />
-[![HitCount](https://hits.dwyl.com/Aboidrees/Aboidrees.svg?style=flat-square)](http://hits.dwyl.com/Aboidrees/Aboidrees)
+  [![HitCount](https://hits.dwyl.com/Aboidrees/Aboidrees.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Aboidrees/Aboidrees)
 </p>
 
 
