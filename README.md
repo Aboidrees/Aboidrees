@@ -16,6 +16,6 @@
   * [Twitter](https://twitter.com/alshf3ee)
   * [LinkedIn](https://www.linkedin.com/in/aboidrees/)
 
-* 😄 Pronouns: He/Him
+* 😄 Pronouns: He/Him 👳‍♂️
 * ⚡ Fun fact: You can call me Muhammad, Aboidrees, and Al Shaf'ee.
 
